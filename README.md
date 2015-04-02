@@ -12,3 +12,6 @@ What i will do on this:
 - Enable virtual hosts
 - Install Magento
 - Init simple data
+
+# How to use
+- vagrant up
